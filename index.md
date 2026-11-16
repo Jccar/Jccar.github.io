@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Img/american.png" alt="photo" width="30%">
+  <img src="Jccar.github.io/me1" alt="photo" width="30%">
 </p>
 
 <h1 align="center">Boozhoo, john indizhinikaaz </h1>
