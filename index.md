@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/me2" alt="photo" width="80%">
+  <img src="img/me3" alt="photo" width="80%">
 </p>
 
 <h1 align="center">Boozhoo, john indizhinikaaz </h1>
