@@ -2,6 +2,7 @@
   <img src="Img/american.png" alt="photo" width="30%">
 </p>
 
+<h1 align="center">Boozhoo, john indizhinikaaz </h1>
 Hi my name is john, this is my website showcasing my work and educational acheivements, thank you for visiting and feel free to check out my page.
 projects and education below.
 Explorations of the new and old, and the old and new.
